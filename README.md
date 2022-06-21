@@ -1,1 +1,1 @@
-Переходим на [Главную страницу](https://github.com/VuvuzellaV/selmag/blob/ba6c461e3088003ac3040e2a960db57d0c30f652/index.html)
+Переходим на [Главную страницу](https://github.com/VuvuzellaV/selmag/index.html)
