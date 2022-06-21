@@ -1,1 +1,1 @@
-Переходим на [Главную страницу](https://VuvuzellaV.github.io)
+Переходим на [Главную страницу](https://selmag.github.io)
