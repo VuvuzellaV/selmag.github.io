@@ -1,1 +1,1 @@
-Переходим на [Главную страницу](https://vuvuzellav.github.io)
+Переходим на [Главную страницу](https://vuvuzellav/selmag.github.io)
